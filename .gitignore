@@ -1,4 +1,7 @@
-node_modules
+.nyc_output/
+*.tsbuildinfo
+coverage/
+dist/
+lib/
+node_modules/
 yarn.lock
-.nyc_output
-coverage

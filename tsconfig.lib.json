@@ -1,0 +1,12 @@
+{
+	"extends": "./tsconfig",
+	"compilerOptions": {
+		"sourceMap": true,
+		"rootDir": "./source",
+		"outDir": "lib",
+		"module": "ESNext"
+	},
+	"include": [
+		"source"
+	]
+}
