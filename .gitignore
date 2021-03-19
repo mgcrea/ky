@@ -5,3 +5,5 @@ dist/
 lib/
 node_modules/
 yarn.lock
+.vscode/
+.eslintrc
